@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Activity Account</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="new_member">New Member?</string>
+    <string name="register">Register</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="registrasi">Register</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="by_checking_the_box_you_agree_to_our">By checking the box you agree to our</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="registrasi2">Register</string>
+    <string name="already_have_an_account">Already Have an Account?</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login2">Login</string>
+    <string name="new_member1">New Member?</string>
+    <string name="register2">Register</string>
+    <string name="remember_me1">Remember Me</string>
+    <string name="login1">Login</string>
+</resources>
